@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Betty Mini Handbag",
+        "description": "Vivienne Westwood",
+        "category": "Винтажные сумки",
+        "price":5700,
+        "imageUrl":"bags/betty.jpg",
+        "stock": "12",
+        "offer":"Скидка 15%"
+    },
+    {
+        "name":"SYMBOLESSA",
+        "description": "George Gina Lucy",
+        "category": "Винтажные сумки",
+        "price":1200,
+        "imageUrl":"bags/symbolessa.webp",
+        "stock": "23",
+        "offer":"Новинка!"
+    },
+    {
+        "name":"Men's Army Backpack Medium in Black",
+        "description": "Balenciaga",
+        "category": "Рюкзаки",
+        "price":144900,
+        "imageUrl":"bags/army.jpg",
+        "stock": "9",
+        "offer":"2 по цене 1"
+    },
+    {
+        "name":"Чемодан на колёсиках 55см",
+        "description": "American Tourister", 
+        "category": "Чемоданы",
+        "price":8900,
+        "imageUrl":"bags/55cm.jpg",
+        "stock": "10",
+        "offer":"2 по цене 1"
+    },
+    {
+        "name":"Дорожная сумка с отделением для обуви",
+        "description": "Eastpak", 
+        "category": "Дорожные сумки",
+        "price":3500,
+        "imageUrl":"bags/shoe.jpg",
+        "stock": "7",
+        "offer":"Скидка 10%"
+    }
+]

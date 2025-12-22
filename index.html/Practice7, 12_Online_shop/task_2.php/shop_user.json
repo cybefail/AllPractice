@@ -1,0 +1,30 @@
+[
+    {
+        "name":"чел",
+        "login":"emorofl",
+        "password":"gt3E1d@d",
+        "email":"vanya@mail.ru",
+        "role": "user"
+    },
+    {
+        "name":"228никитосик",
+        "login":"loshook",
+        "password":"uhnikitka@#",
+        "email":"nepridumal@mail.ru",
+        "role": "user"
+    },
+    {
+        "name":"ZXC димосик",
+        "login":"ZXCDIMA",
+        "password":"крутой2023",
+        "email":"dimazxcursed@mail.ru",
+        "role": "user"
+    },
+    {
+        "name":"Алексей",
+        "login":"alex",
+        "password":"P@ssW0rd",
+        "email":"inoagent@mail.ru",
+        "role": "admin"
+    }
+]
