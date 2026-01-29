@@ -18,7 +18,7 @@ let flightDistance = 7260;
 let averageSpeed = 600;
 let flightTime = Math.round(flightDistance / averageSpeed);
 console.log(flightTime);
-//flightDistance - расстояние полёта в километрах.
+//flightDistance - расстояние полёта в километрах
 
 console.log('4 задание');
 let age = 5;
@@ -50,7 +50,7 @@ console.log('Вес:', weight, 'кг - ', recommendation);
 console.log('6 задание');
 let number6 = 15;
 let taskResult;
-if (number6 % 15 === 0) { //проверка редкого и "сильного" случая
+if (number6 % 15 === 0) { //проверка редкого и сильного случая
     taskResult = 'FizzBuzz';
 } else if (number6 % 3 === 0) {
     taskResult = 'Fizz';
@@ -60,7 +60,6 @@ if (number6 % 15 === 0) { //проверка редкого и "сильного
     taskResult = number6;
 }
 console.log(taskResult); //FizzBuzz
-
 
 console.log('7 задание');
 let startNumber = 1;
@@ -101,3 +100,5 @@ for (let i = 2; i < number10; i++) {
         console.log(i);
     }
 }
+
+
