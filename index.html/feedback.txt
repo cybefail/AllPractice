@@ -1,0 +1,7 @@
+        if(empty($this->phone)){
+            throw new InvalidArgumentException('Не передан телефон');
+        }
+        if(!preg_match('/^\+?7?[\s\-\(\)]*\d[\d\s\-\(\)]{9,}$/', $this->phone)){
+            throw new InvalidArgumentException('Введите корректный номер телефона (например: +7(999)1234567 или 89991234567)');
+        }
+        
